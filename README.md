@@ -1,6 +1,6 @@
 # Curso: Knowledge Distillation Para Imagens Médicas em PyTorch
 
-Curso prático de introdução à **Knowledge Distillation (KD)** em PyTorch. Um modelo grande já treinado (*teacher*) ensina um modelo pequeno (*student*), com o objetivo de manter boa qualidade com muito menos parâmetros, menor tamanho e menor tempo de inferência.
+Curso prático de introdução à **Knowledge Distillation (KD)** em PyTorch (https://mtcazzolato.github.io/eabda-kd/). Um modelo grande já treinado (*teacher*) ensina um modelo pequeno (*student*), com o objetivo de manter boa qualidade com muito menos parâmetros, menor tamanho e menor tempo de inferência.
 
 ## O que o curso mostra
 
