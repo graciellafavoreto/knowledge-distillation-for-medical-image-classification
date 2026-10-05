@@ -61,7 +61,7 @@ L = α · CE(rótulo real, student) + (1 − α) · T² · KL(softmax(teacher/T)
 
 ```
 .
-├── KD_course_revisado.ipynb   # notebook do curso
+├── KD_in_medical_images.ipynb   # notebook do curso
 ├── utils.py                   # funções compartilhadas
 ├── data/                      # criado automaticamente (dataset)
 └── weights/                   # criado ao salvar os modelos
